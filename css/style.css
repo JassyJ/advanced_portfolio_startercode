@@ -1,3 +1,21 @@
+.body {
+    position: relative;
+}
+
+.color_div {
+    height: 800px;
+    margin: 1em;
+    border-radius: 1em;
+}
+#about {
+    background-color: yellow;
+    
+}
+
+#project.color_div {
+    background-color: Blue;
+    
+}
 /* Nav Bar CSS */
 
 
